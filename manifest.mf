@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: false
+OpenIDE-Module: in.illimitable.handlebar
+OpenIDE-Module-Layer: in/illimitable/handlebar/layer.xml
+OpenIDE-Module-Localizing-Bundle: in/illimitable/handlebar/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
